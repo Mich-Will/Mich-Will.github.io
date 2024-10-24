@@ -5,9 +5,7 @@ layout: default
 
 * * *
 
-[Link to my LinkedIn](www.linkedin.com/in/mwillis0115)
-
-Visit https://www.linkedin.com/in/mwillis0115
+[Visit my LinkedIn](https://www.linkedin.com/in/mwillis0115) 
 
 * * * 
 

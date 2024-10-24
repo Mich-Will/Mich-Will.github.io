@@ -1,18 +1,13 @@
 ---
 layout: default
 ---
-**Mich-Will's Portfolio of Cybersecurity Projects**
+~~**Mich-Will's Portfolio of Cybersecurity Projects**~~
 
-<dl>
-<dt>Name</dt>
-<dd>Michael Willis</dd>
-<dt>Purpose</dt>
-<dd>Helping others</dd>
-<dt>Skis Owned</dt>
-<dd>5 right now</dd>
-</dl>
+* * *
 
 [Link to my LinkedIn](www.linkedin.com/in/mwillis0115)
+
+Visit https://www.linkedin.com/in/mwillis0115
 
 * * * 
 

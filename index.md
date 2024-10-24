@@ -1,14 +1,13 @@
 ---
 layout: default
 ---
-Mich-Will's Portfolio of Cybersecurity Projects
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**Mich-Will's Portfolio of Cybersecurity Projects**
 
-[Link to another page](./another-page.html).
+[Link to my LinkedIn](www.linkedin.com/in/mwillis0115)
 
-There should be whitespace between paragraphs.
+Entry level Cybersecurity student interested in protecting information and helping others. I love to protect people from mis/dis/mal-information and want to preserve data for the future.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+I am working on multiple projects, and plan to upload them weekly to document my security progress.
 
 # Header 1
 
@@ -105,19 +104,15 @@ end
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Michael Willis</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>1998</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
+<dd>Texas</dd>
+<dt>Favorite Color</dt>
 <dd>Green</dd>
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+What do Vikings use to encrypt their messages?                                                                                    Norse code.
 ```

@@ -9,7 +9,7 @@ layout: default
 <dt>Purpose</dt>
 <dd>Helping others</dd>
 <dt>Skis Owned</dt>
-<dd>5 right now<dd>
+<dd>5 right now</dd>
 </dl>
 
 [Link to my LinkedIn](www.linkedin.com/in/mwillis0115)
